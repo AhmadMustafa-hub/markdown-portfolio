@@ -1,1 +1,1 @@
-[Github Profile] (https://github.com/AhmadMustafa-hub)
+[Github Profile](https://github.com/AhmadMustafa-hub)
