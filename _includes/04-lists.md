@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here is a list
+- long wolks
+- github
+- coding
